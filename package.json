@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "bunx --yes listhen -w --open ./index.ts"
+  },
+  "dependencies": {
+    "consola": "^3.2.3",
+    "h3": "^1.11.1"
+  }
+}
